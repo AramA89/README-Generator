@@ -32,10 +32,10 @@ THEN I am taken to the corresponding section of the README
 ![](Develop/img/README.jpg)
 
 ## Video Link For Use
-[](Develop/img/ReadMe%20Video.mp4)
+https://arama89.github.io/README-Generator/
 
-## Deployed URL
-
+## Deployed URL 
+https://arama89.github.io/README-Generator/
 
 ## GitHub Repository
 https://github.com/AramA89/README-Generator
